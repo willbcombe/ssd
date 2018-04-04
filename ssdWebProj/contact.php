@@ -194,7 +194,7 @@ else if( trim($_GET['student']) == "" && trim($_GET['prosstudent']) == "" && tri
 
 }
 
-//$displayForm = true;
+$displayForm = true;
 
 
 //show the HTML form
